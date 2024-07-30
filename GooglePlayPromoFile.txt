@@ -1,1 +1,1 @@
-{"gameName":"XMM","storeLink":"https://play.google.com/store/apps/details?id=com.flyingcaps.bike.madskills.motocross.x3m.motox3m","imageUrls":["https://github.com/kalyankumar-p/CrossPromoTest/blob/main/2_1024x1024.png"]}
+{"gameName":"XMM","storeLink":"https://play.google.com/store/apps/details?id=com.flyingcaps.bike.madskills.motocross.x3m.motox3m","imageUrls":["https://raw.githubusercontent.com/kalyankumar-p/CrossPromoTest/main/2_1024x1024.png"]}
